@@ -1,0 +1,11 @@
+Create a .env file and Add these fields and modify values
+
+
+
+PORT=8000
+MONGODB_URI=mongodb+srv://jewellery:yOKSI3AJFPASwELi9ax@cluster0.uzp.mongodb.net
+CORS_ORIGIN=*
+ACCESS_TOKEN_SECRET=eyJhbGciOiJSUzI1_NiIsInR5cCI6IkpXVCJ9.eyJzdWIi_OiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lI_iwiYWRtaW_YaraLaVaseShaKshaHa
+ACCESS_TOKEN_EXPIRY=1d
+REFRESH_TOKEN_SECRET=mxldmVsIjoyfX0.SflKxwRKF2QT4fwJSMeKpMeJf36POk6yJV_adQssw5c_g4LCJzY29wZXMiOlsicmVhZCIsIndyaXRlIiwidXB_kYXRlIl0sImN1.c3.RvbSI6eyJ.yb2xlIjoiU3VwZXJBZG1pbiIsI
+REFRESH_TOKEN_EXPIRY=10d
