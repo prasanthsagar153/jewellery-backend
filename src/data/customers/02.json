@@ -1,0 +1,71 @@
+{
+  "customer": {
+    "id": 8141940097256,
+    "email": null,
+    "created_at": "2025-03-24T14:02:35+05:30",
+    "updated_at": "2025-03-24T14:04:30+05:30",
+    "first_name": "JAVVAJI",
+    "last_name": "SUMA",
+    "orders_count": 1,
+    "state": "disabled",
+    "total_spent": "690.00",
+    "last_order_id": 6269097345256,
+    "note": null,
+    "verified_email": true,
+    "multipass_identifier": null,
+    "tax_exempt": false,
+    "tags": "",
+    "last_order_name": "#25869",
+    "currency": "INR",
+    "phone": "+917995504302",
+    "addresses": [
+      {
+        "id": 9689570410728,
+        "customer_id": 8141940097256,
+        "first_name": "JAVVAJI",
+        "last_name": "SUMA",
+        "company": null,
+        "address1": "1-8-94,3rd Street adhrasha nagar, metaplly",
+        "address2": null,
+        "city": "Metpalli, jagityal",
+        "province": "Telangana",
+        "country": "India",
+        "zip": "505325",
+        "phone": "7995504302",
+        "name": "JAVVAJI SUMA",
+        "province_code": "TS",
+        "country_code": "IN",
+        "country_name": "India",
+        "default": true
+      }
+    ],
+    "tax_exemptions": [],
+    "email_marketing_consent": null,
+    "sms_marketing_consent": {
+      "state": "not_subscribed",
+      "opt_in_level": "single_opt_in",
+      "consent_updated_at": null,
+      "consent_collected_from": "SHOPIFY"
+    },
+    "admin_graphql_api_id": "gid://shopify/Customer/8141940097256",
+    "default_address": {
+      "id": 9689570410728,
+      "customer_id": 8141940097256,
+      "first_name": "JAVVAJI",
+      "last_name": "SUMA",
+      "company": null,
+      "address1": "1-8-94,3rd Street adhrasha nagar, metaplly",
+      "address2": null,
+      "city": "Metpalli, jagityal",
+      "province": "Telangana",
+      "country": "India",
+      "zip": "505325",
+      "phone": "7995504302",
+      "name": "JAVVAJI SUMA",
+      "province_code": "TS",
+      "country_code": "IN",
+      "country_name": "India",
+      "default": true
+    }
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "order": {
+    "id": 6269097345256,
+    "admin_graphql_api_id": "gid://shopify/Order/6269097345256",
+    "app_id": 580111,
+    "browser_ip": "2401:4900:6761:3981:24c4:ff:feea:f388",
+    "buyer_accepts_marketing": false,
+    "cancel_reason": null,
+    "cancelled_at": null,
+    "cart_token": "Z2NwLWFzaWEtc291dGhlYXN0MTowMUpRM01DMkQ1UUtaUjJWN0syMjhNNUFWMQ",
+    "checkout_id": 36243888767208,
+    "checkout_token": "844a9c57915242d4ffb81e130012bf74",
+    "client_details": {
+      "accept_language": "en-IN",
+      "browser_height": null,
+      "browser_ip": "2401:4900:6761:3981:24c4:ff:feea:f388",
+      "browser_width": null,
+      "session_hash": null,
+      "user_agent": "Mozilla/5.0 (Linux; Android 14; RMX3853 Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.92 Mobile Safari/537.36 Instagram 372.0.0.48.60 Android (34/14; 560dpi; 1264x2486; realme; RMX3853; RE606FL1; qcom; en_GB; 709818021)"
+    },
+    "closed_at": null,
+    "confirmation_number": "084NQ1GDN",
+    "confirmed": true,
+    "contact_email": null,
+    "created_at": "2025-03-24T14:04:30+05:30",
+    "currency": "INR",
+    "current_subtotal_price": "690.00",
+    "current_subtotal_price_set": {
+      "shop_money": {
+        "amount": "690.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "690.00",
+        "currency_code": "INR"
+      }
+    },
+    "current_total_additional_fees_set": null,
+    "current_total_discounts": "0.00",
+    "current_total_discounts_set": {
+      "shop_money": {
+        "amount": "0.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "0.00",
+        "currency_code": "INR"
+      }
+    },
+    "current_total_duties_set": null,
+    "current_total_price": "690.00",
+    "current_total_price_set": {
+      "shop_money": {
+        "amount": "690.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "690.00",
+        "currency_code": "INR"
+      }
+    },
+    "current_total_tax": "105.25",
+    "current_total_tax_set": {
+      "shop_money": {
+        "amount": "105.25",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "105.25",
+        "currency_code": "INR"
+      }
+    },
+    "customer_locale": "en-IN",
+    "device_id": null,
+    "discount_codes": [],
+    "email": "",
+    "estimated_taxes": false,
+    "financial_status": "paid",
+    "fulfillment_status": null,
+    "landing_site": "/",
+    "landing_site_ref": null,
+    "location_id": null,
+    "merchant_of_record_app_id": null,
+    "name": "#25869",
+    "note": null,
+    "note_attributes": [],
+    "number": 24869,
+    "order_number": 25869,
+    "order_status_url": "https://ramyanagendra.com/70190301416/orders/407b65bf4bc004a0ee0c9d681da1eecc/authenticate?key=e2b4134efb5cc64cea4c2b5bdc1565b4",
+    "original_total_additional_fees_set": null,
+    "original_total_duties_set": null,
+    "payment_gateway_names": ["1 Razorpay"],
+    "phone": "+917995504302",
+    "po_number": null,
+    "presentment_currency": "INR",
+    "processed_at": "2025-03-24T14:04:28+05:30",
+    "reference": null,
+    "referring_site": "https://l.instagram.com/",
+    "source_identifier": null,
+    "source_name": "web",
+    "source_url": null,
+    "subtotal_price": "690.00",
+    "subtotal_price_set": {
+      "shop_money": {
+        "amount": "690.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "690.00",
+        "currency_code": "INR"
+      }
+    },
+    "tags": "",
+    "tax_exempt": false,
+    "tax_lines": [
+      {
+        "price": "105.25",
+        "rate": 0.18,
+        "title": "IGST",
+        "price_set": {
+          "shop_money": {
+            "amount": "105.25",
+            "currency_code": "INR"
+          },
+          "presentment_money": {
+            "amount": "105.25",
+            "currency_code": "INR"
+          }
+        },
+        "channel_liable": false
+      }
+    ],
+    "taxes_included": true,
+    "test": false,
+    "token": "407b65bf4bc004a0ee0c9d681da1eecc",
+    "total_discounts": "0.00",
+    "total_discounts_set": {
+      "shop_money": {
+        "amount": "0.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "0.00",
+        "currency_code": "INR"
+      }
+    },
+    "total_line_items_price": "690.00",
+    "total_line_items_price_set": {
+      "shop_money": {
+        "amount": "690.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "690.00",
+        "currency_code": "INR"
+      }
+    },
+    "total_outstanding": "0.00",
+    "total_price": "690.00",
+    "total_price_set": {
+      "shop_money": {
+        "amount": "690.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "690.00",
+        "currency_code": "INR"
+      }
+    },
+    "total_shipping_price_set": {
+      "shop_money": {
+        "amount": "0.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "0.00",
+        "currency_code": "INR"
+      }
+    },
+    "total_tax": "105.25",
+    "total_tax_set": {
+      "shop_money": {
+        "amount": "105.25",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "105.25",
+        "currency_code": "INR"
+      }
+    },
+    "total_tip_received": "0.00",
+    "total_weight": 0,
+    "updated_at": "2025-03-24T14:04:31+05:30",
+    "user_id": null,
+    "billing_address": {
+      "first_name": "JAVVAJI",
+      "address1": "1-8-94,3rd Street adhrasha nagar, metaplly",
+      "phone": "7995504302",
+      "city": "Metpalli, jagityal",
+      "zip": "505325",
+      "province": "Telangana",
+      "country": "India",
+      "last_name": "SUMA",
+      "address2": null,
+      "company": null,
+      "latitude": null,
+      "longitude": null,
+      "name": "JAVVAJI SUMA",
+      "country_code": "IN",
+      "province_code": "TS"
+    },
+    "customer": {
+      "id": 8141940097256,
+      "email": null,
+      "created_at": "2025-03-24T14:02:35+05:30",
+      "updated_at": "2025-03-24T14:04:30+05:30",
+      "first_name": "JAVVAJI",
+      "last_name": "SUMA",
+      "state": "disabled",
+      "note": null,
+      "verified_email": true,
+      "multipass_identifier": null,
+      "tax_exempt": false,
+      "phone": "+917995504302",
+      "email_marketing_consent": null,
+      "sms_marketing_consent": {
+        "state": "not_subscribed",
+        "opt_in_level": "single_opt_in",
+        "consent_updated_at": null,
+        "consent_collected_from": "SHOPIFY"
+      },
+      "tags": "",
+      "currency": "INR",
+      "tax_exemptions": [],
+      "admin_graphql_api_id": "gid://shopify/Customer/8141940097256",
+      "default_address": {
+        "id": 9689570410728,
+        "customer_id": 8141940097256,
+        "first_name": "JAVVAJI",
+        "last_name": "SUMA",
+        "company": null,
+        "address1": "1-8-94,3rd Street adhrasha nagar, metaplly",
+        "address2": null,
+        "city": "Metpalli, jagityal",
+        "province": "Telangana",
+        "country": "India",
+        "zip": "505325",
+        "phone": "7995504302",
+        "name": "JAVVAJI SUMA",
+        "province_code": "TS",
+        "country_code": "IN",
+        "country_name": "India",
+        "default": true
+      }
+    },
+    "discount_applications": [],
+    "fulfillments": [],
+    "line_items": [
+      {
+        "id": 15108848287976,
+        "admin_graphql_api_id": "gid://shopify/LineItem/15108848287976",
+        "attributed_staffs": [],
+        "current_quantity": 1,
+        "fulfillable_quantity": 1,
+        "fulfillment_service": "manual",
+        "fulfillment_status": null,
+        "gift_card": false,
+        "grams": 0,
+        "name": "Peacock Kante",
+        "price": "690.00",
+        "price_set": {
+          "shop_money": {
+            "amount": "690.00",
+            "currency_code": "INR"
+          },
+          "presentment_money": {
+            "amount": "690.00",
+            "currency_code": "INR"
+          }
+        },
+        "product_exists": true,
+        "product_id": 9106982273256,
+        "properties": [],
+        "quantity": 1,
+        "requires_shipping": true,
+        "sku": "775RN09",
+        "taxable": true,
+        "title": "Peacock Kante",
+        "total_discount": "0.00",
+        "total_discount_set": {
+          "shop_money": {
+            "amount": "0.00",
+            "currency_code": "INR"
+          },
+          "presentment_money": {
+            "amount": "0.00",
+            "currency_code": "INR"
+          }
+        },
+        "variant_id": 47178701570280,
+        "variant_inventory_management": "shopify",
+        "variant_title": null,
+        "vendor": "RamyaNagendra Imitations",
+        "tax_lines": [
+          {
+            "channel_liable": false,
+            "price": "105.25",
+            "price_set": {
+              "shop_money": {
+                "amount": "105.25",
+                "currency_code": "INR"
+              },
+              "presentment_money": {
+                "amount": "105.25",
+                "currency_code": "INR"
+              }
+            },
+            "rate": 0.18,
+            "title": "IGST"
+          }
+        ],
+        "duties": [],
+        "discount_allocations": []
+      }
+    ],
+    "payment_terms": null,
+    "refunds": [],
+    "shipping_address": {
+      "first_name": "JAVVAJI",
+      "address1": "1-8-94,3rd Street adhrasha nagar, metaplly",
+      "phone": "7995504302",
+      "city": "Metpalli, jagityal",
+      "zip": "505325",
+      "province": "Telangana",
+      "country": "India",
+      "last_name": "SUMA",
+      "address2": null,
+      "company": null,
+      "latitude": 18.8437247,
+      "longitude": 78.6247901,
+      "name": "JAVVAJI SUMA",
+      "country_code": "IN",
+      "province_code": "TS"
+    },
+    "shipping_lines": [
+      {
+        "id": 5097423372520,
+        "carrier_identifier": null,
+        "code": "Standard",
+        "discounted_price": "0.00",
+        "discounted_price_set": {
+          "shop_money": {
+            "amount": "0.00",
+            "currency_code": "INR"
+          },
+          "presentment_money": {
+            "amount": "0.00",
+            "currency_code": "INR"
+          }
+        },
+        "is_removed": false,
+        "phone": null,
+        "price": "0.00",
+        "price_set": {
+          "shop_money": {
+            "amount": "0.00",
+            "currency_code": "INR"
+          },
+          "presentment_money": {
+            "amount": "0.00",
+            "currency_code": "INR"
+          }
+        },
+        "requested_fulfillment_service_id": null,
+        "source": "shopify",
+        "title": "Standard",
+        "tax_lines": [],
+        "discount_allocations": []
+      }
+    ]
+  }
+}

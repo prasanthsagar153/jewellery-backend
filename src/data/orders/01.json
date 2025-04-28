@@ -1,0 +1,381 @@
+{
+  "order": {
+    "id": 6264289788136,
+    "admin_graphql_api_id": "gid://shopify/Order/6264289788136",
+    "app_id": 580111,
+    "browser_ip": "2409:4070:4280:2440::11a5:18a1",
+    "buyer_accepts_marketing": true,
+    "cancel_reason": null,
+    "cancelled_at": null,
+    "cart_token": "Z2NwLWFzaWEtc291dGhlYXN0MTowMUpQVzg3RE1NWkhNU0ZSU0c1Nlo2OTk4Vg",
+    "checkout_id": 36235688181992,
+    "checkout_token": "4ea964f95e36144b43ca8bbac2dd07db",
+    "client_details": {
+      "accept_language": "en-IN",
+      "browser_height": null,
+      "browser_ip": "2409:4070:4280:2440::11a5:18a1",
+      "browser_width": null,
+      "session_hash": null,
+      "user_agent": "Mozilla/5.0 (Linux; U; Android 11; en-gb; CPH1969 Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.11.5.3"
+    },
+    "closed_at": null,
+    "confirmation_number": "G87AFFLZF",
+    "confirmed": true,
+    "contact_email": "peramdivya93@gmail.com",
+    "created_at": "2025-03-21T17:15:48+05:30",
+    "currency": "INR",
+    "current_subtotal_price": "390.00",
+    "current_subtotal_price_set": {
+      "shop_money": {
+        "amount": "390.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "390.00",
+        "currency_code": "INR"
+      }
+    },
+    "current_total_additional_fees_set": null,
+    "current_total_discounts": "0.00",
+    "current_total_discounts_set": {
+      "shop_money": {
+        "amount": "0.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "0.00",
+        "currency_code": "INR"
+      }
+    },
+    "current_total_duties_set": null,
+    "current_total_price": "390.00",
+    "current_total_price_set": {
+      "shop_money": {
+        "amount": "390.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "390.00",
+        "currency_code": "INR"
+      }
+    },
+    "current_total_tax": "59.49",
+    "current_total_tax_set": {
+      "shop_money": {
+        "amount": "59.49",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "59.49",
+        "currency_code": "INR"
+      }
+    },
+    "customer_locale": "en-IN",
+    "device_id": null,
+    "discount_codes": [],
+    "email": "peramdivya93@gmail.com",
+    "estimated_taxes": false,
+    "financial_status": "paid",
+    "fulfillment_status": null,
+    "landing_site": "/?srsltid=AfmBOop9cwnxCZmIkmWO_yNc3Qen_A541O_iZ9oNW4jk_Wyppfh2sat6",
+    "landing_site_ref": null,
+    "location_id": null,
+    "merchant_of_record_app_id": null,
+    "name": "#25572",
+    "note": null,
+    "note_attributes": [],
+    "number": 24572,
+    "order_number": 25572,
+    "order_status_url": "https://ramyanagendra.com/70190301416/orders/d0c76934749aa988011dd7506278bfd5/authenticate?key=50e4c1b1731bd18390b44e972bf1bf30",
+    "original_total_additional_fees_set": null,
+    "original_total_duties_set": null,
+    "payment_gateway_names": ["1 Razorpay"],
+    "phone": null,
+    "po_number": null,
+    "presentment_currency": "INR",
+    "processed_at": "2025-03-21T17:15:46+05:30",
+    "reference": null,
+    "referring_site": "https://www.google.co.in/",
+    "source_identifier": null,
+    "source_name": "web",
+    "source_url": null,
+    "subtotal_price": "390.00",
+    "subtotal_price_set": {
+      "shop_money": {
+        "amount": "390.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "390.00",
+        "currency_code": "INR"
+      }
+    },
+    "tags": "",
+    "tax_exempt": false,
+    "tax_lines": [
+      {
+        "price": "59.49",
+        "rate": 0.18,
+        "title": "IGST",
+        "price_set": {
+          "shop_money": {
+            "amount": "59.49",
+            "currency_code": "INR"
+          },
+          "presentment_money": {
+            "amount": "59.49",
+            "currency_code": "INR"
+          }
+        },
+        "channel_liable": false
+      }
+    ],
+    "taxes_included": true,
+    "test": false,
+    "token": "d0c76934749aa988011dd7506278bfd5",
+    "total_discounts": "0.00",
+    "total_discounts_set": {
+      "shop_money": {
+        "amount": "0.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "0.00",
+        "currency_code": "INR"
+      }
+    },
+    "total_line_items_price": "390.00",
+    "total_line_items_price_set": {
+      "shop_money": {
+        "amount": "390.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "390.00",
+        "currency_code": "INR"
+      }
+    },
+    "total_outstanding": "0.00",
+    "total_price": "390.00",
+    "total_price_set": {
+      "shop_money": {
+        "amount": "390.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "390.00",
+        "currency_code": "INR"
+      }
+    },
+    "total_shipping_price_set": {
+      "shop_money": {
+        "amount": "0.00",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "0.00",
+        "currency_code": "INR"
+      }
+    },
+    "total_tax": "59.49",
+    "total_tax_set": {
+      "shop_money": {
+        "amount": "59.49",
+        "currency_code": "INR"
+      },
+      "presentment_money": {
+        "amount": "59.49",
+        "currency_code": "INR"
+      }
+    },
+    "total_tip_received": "0.00",
+    "total_weight": 0,
+    "updated_at": "2025-03-21T17:15:50+05:30",
+    "user_id": null,
+    "billing_address": {
+      "first_name": "Divya",
+      "address1": "Sri Kausalya Residency Sri Sai Colony Phase 2 Defence Colony",
+      "phone": "8333851215",
+      "city": "Hayathnagar_Khalsa",
+      "zip": "501505",
+      "province": "Telangana",
+      "country": "India",
+      "last_name": "Peram",
+      "address2": "201,Sri koushalya residency,Sri Sai colony phase 2",
+      "company": null,
+      "latitude": 17.3188893,
+      "longitude": 78.6103974,
+      "name": "Divya Peram",
+      "country_code": "IN",
+      "province_code": "TS"
+    },
+    "customer": {
+      "id": 8138047488232,
+      "email": "peramdivya93@gmail.com",
+      "created_at": "2025-03-21T17:15:00+05:30",
+      "updated_at": "2025-03-21T17:15:49+05:30",
+      "first_name": "Divya",
+      "last_name": "Peram",
+      "state": "disabled",
+      "note": null,
+      "verified_email": true,
+      "multipass_identifier": null,
+      "tax_exempt": false,
+      "phone": null,
+      "email_marketing_consent": {
+        "state": "subscribed",
+        "opt_in_level": "single_opt_in",
+        "consent_updated_at": "2025-03-21T17:15:49+05:30"
+      },
+      "sms_marketing_consent": null,
+      "tags": "",
+      "currency": "INR",
+      "tax_exemptions": [],
+      "admin_graphql_api_id": "gid://shopify/Customer/8138047488232",
+      "default_address": {
+        "id": 9685449113832,
+        "customer_id": 8138047488232,
+        "first_name": "Divya",
+        "last_name": "Peram",
+        "company": null,
+        "address1": "Sri Kausalya Residency Sri Sai Colony Phase 2 Defence Colony",
+        "address2": "201,Sri koushalya residency,Sri Sai colony phase 2",
+        "city": "Hayathnagar_Khalsa",
+        "province": "Telangana",
+        "country": "India",
+        "zip": "501505",
+        "phone": "8333851215",
+        "name": "Divya Peram",
+        "province_code": "TS",
+        "country_code": "IN",
+        "country_name": "India",
+        "default": true
+      }
+    },
+    "discount_applications": [],
+    "fulfillments": [],
+    "line_items": [
+      {
+        "id": 15099507048680,
+        "admin_graphql_api_id": "gid://shopify/LineItem/15099507048680",
+        "attributed_staffs": [],
+        "current_quantity": 1,
+        "fulfillable_quantity": 1,
+        "fulfillment_service": "manual",
+        "fulfillment_status": null,
+        "gift_card": false,
+        "grams": 0,
+        "name": "Kempu doller invisible chain",
+        "price": "390.00",
+        "price_set": {
+          "shop_money": {
+            "amount": "390.00",
+            "currency_code": "INR"
+          },
+          "presentment_money": {
+            "amount": "390.00",
+            "currency_code": "INR"
+          }
+        },
+        "product_exists": true,
+        "product_id": 9106391531752,
+        "properties": [],
+        "quantity": 1,
+        "requires_shipping": true,
+        "sku": "752RN08",
+        "taxable": true,
+        "title": "Kempu doller invisible chain",
+        "total_discount": "0.00",
+        "total_discount_set": {
+          "shop_money": {
+            "amount": "0.00",
+            "currency_code": "INR"
+          },
+          "presentment_money": {
+            "amount": "0.00",
+            "currency_code": "INR"
+          }
+        },
+        "variant_id": 47175795376360,
+        "variant_inventory_management": "shopify",
+        "variant_title": null,
+        "vendor": "RamyaNagendra Imitations",
+        "tax_lines": [
+          {
+            "channel_liable": false,
+            "price": "59.49",
+            "price_set": {
+              "shop_money": {
+                "amount": "59.49",
+                "currency_code": "INR"
+              },
+              "presentment_money": {
+                "amount": "59.49",
+                "currency_code": "INR"
+              }
+            },
+            "rate": 0.18,
+            "title": "IGST"
+          }
+        ],
+        "duties": [],
+        "discount_allocations": []
+      }
+    ],
+    "payment_terms": null,
+    "refunds": [],
+    "shipping_address": {
+      "first_name": "Divya",
+      "address1": "Sri Kausalya Residency Sri Sai Colony Phase 2 Defence Colony",
+      "phone": "8333851215",
+      "city": "Hayathnagar_Khalsa",
+      "zip": "501505",
+      "province": "Telangana",
+      "country": "India",
+      "last_name": "Peram",
+      "address2": "201,Sri koushalya residency,Sri Sai colony phase 2",
+      "company": null,
+      "latitude": 17.3188893,
+      "longitude": 78.6103974,
+      "name": "Divya Peram",
+      "country_code": "IN",
+      "province_code": "TS"
+    },
+    "shipping_lines": [
+      {
+        "id": 5093587648744,
+        "carrier_identifier": null,
+        "code": "Standard",
+        "discounted_price": "0.00",
+        "discounted_price_set": {
+          "shop_money": {
+            "amount": "0.00",
+            "currency_code": "INR"
+          },
+          "presentment_money": {
+            "amount": "0.00",
+            "currency_code": "INR"
+          }
+        },
+        "is_removed": false,
+        "phone": null,
+        "price": "0.00",
+        "price_set": {
+          "shop_money": {
+            "amount": "0.00",
+            "currency_code": "INR"
+          },
+          "presentment_money": {
+            "amount": "0.00",
+            "currency_code": "INR"
+          }
+        },
+        "requested_fulfillment_service_id": null,
+        "source": "shopify",
+        "title": "Standard",
+        "tax_lines": [],
+        "discount_allocations": []
+      }
+    ]
+  }
+}
